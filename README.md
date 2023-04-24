@@ -3,7 +3,7 @@
 This is a starter project a frontend app that uses the following packages:
 
 -   React
--   TailWind Css
+-   Tailwind
 -   Vite
 -   ESLint
 -   Prettier
