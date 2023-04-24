@@ -3,7 +3,8 @@ import { uiTechnology, supportTechnology } from './assets/logos'
 import CounterButton from './components/CounterButton'
 
 export default function App() {
-    const { VITE_APP_PATH } = import.meta.env
+    const { VITE_APP_PATH = 'Missing .env file. Check example.env' } =
+        import.meta.env
 
     return (
         <>
