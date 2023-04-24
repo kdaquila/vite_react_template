@@ -1,6 +1,6 @@
 # Overview
 
-This is a starter project a frontend app that uses the following packages:
+This is a starter project for a frontend app that uses the following packages:
 
 -   React
 -   Tailwind
