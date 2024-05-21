@@ -10,15 +10,7 @@ This is a starter project for a frontend app that uses the following packages:
 
 # Visual Studio Code: Development Setup
 
-### 1. Install NPM Packages
-
-PNPM is ideal for development machines because after a while, the local cache will contain many common packages and reinstallation of these packages becomes very fast.
-
-```
-pnpm install
-```
-
-### 2. Update VS Code's **settings.json**
+### 1. Update VS Code's **settings.json**
 
 #### Prettier as default formatter
 
@@ -44,16 +36,13 @@ pnpm install
     ]
     ```
 
-### 3. Install VS Code extensions
+### 2. Install VS Code extensions
 
 -   ESLint
 -   Prettier
 -   Tailwind CSS IntelliSense
--   GitLens
--   Git Graph
--   Git History
 
-### 4. Update VS Code **launch.json**
+### 3. Update VS Code **launch.json**
 
 Launch new browser window. Convenient, but then no browser Devtools
 
